@@ -1,1 +1,1 @@
-just the kernel name
+The command "uname" prints just the kernel name when you run it without any option.
